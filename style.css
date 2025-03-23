@@ -52,8 +52,8 @@ section.fotos{
 img.fotoprincipal{
 
     margin: auto;
-    height: 1000px;
-    width: 1500px;
+    height: auto;
+    width: 100%;
 }
 section.fonte{
     text-align: center;
